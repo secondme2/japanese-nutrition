@@ -35,10 +35,10 @@ $$Calories = fat * 9 + carbs * 4 + protein * 4 = 484.$$
 The vectors are:
 $$(2, 3, 4), (8, 30, 6), (1, 20, 1)$$
 
-![Linear Combination 1.1](images/lin-comb-1_1.png)
-![Linear Combination 1.2](images/lin-comb-1_2.png)
-![Linear Combination 1.3](images/lin-comb-1_3.png)
-![Linear Combination 1.4](images/lin-comb-1_4.png)
+![Linear Combination 1.1](images/lin-comb-1_1.pdf)
+![Linear Combination 1.2](images/lin-comb-1_2.pdf)
+![Linear Combination 1.3](images/lin-comb-1_3.pdf)
+![Linear Combination 1.4](images/lin-comb-1_4.pdf)
 
 Clearly, the vectors are linearly independent.
 
@@ -55,10 +55,10 @@ The system of three dishes, their nutritional values, and goal can be represente
 
 $$(2, 3, 4) * a + (8, 30, 6) * b + (1, 20, 1) * c = (16, 60, 25)$$
 
-![Linear Plane 1.1](images/lin-planes-1_1.png)
-![Linear Plane 1.2](images/lin-planes-1_2.png)
-![Linear Plane 1.3](images/lin-planes-1_3.png)
-![Linear Plane 1.4](images/lin-planes-1_4.png)
+![Linear Plane 1.1](images/lin-planes-1_1.pdf)
+![Linear Plane 1.2](images/lin-planes-1_2.pdf)
+![Linear Plane 1.3](images/lin-planes-1_3.pdf)
+![Linear Plane 1.4](images/lin-planes-1_4.pdf)
 
 **Matrix representation:**
 
@@ -135,10 +135,10 @@ $$Calories = fat * 9 + carbs * 4 + protein * 4 = 4890.$$
 The vectors are:
 $$(11, 65, 78), (3, 8, 6), (0, 45, 4)$$
 
-![Linear Combination 2.1](images/lin-comb-2_1.png)
-![Linear Combination 2.2](images/lin-comb-2_2.png)
-![Linear Combination 2.3](images/lin-comb-2_3.png)
-![Linear Combination 2.4](images/lin-comb-2_4.png)
+![Linear Combination 2.1](images/lin-comb-2_1.pdf)
+![Linear Combination 2.2](images/lin-comb-2_2.pdf)
+![Linear Combination 2.3](images/lin-comb-2_3.pdf)
+![Linear Combination 2.4](images/lin-comb-2_4.pdf)
 
 - Proof 1 (visual): if you draw a plane through any of two vectors, the end of the third one should not be very close to the plane.
 - Proof 2 (basis):
@@ -154,10 +154,10 @@ The system of three dishes, their nutritional values, and goal can be represente
 
 $$(11, 65, 78) * a + (3, 8, 6) * b + (0, 45, 4) * c = (130, 450, 480)$$
 
-![Linear Plane 2.1](images/lin-planes-2_1.png)
-![Linear Plane 2.2](images/lin-planes-2_2.png)
-![Linear Plane 2.3](images/lin-planes-2_3.png)
-![Linear Plane 2.4](images/lin-planes-2_4.png)
+![Linear Plane 2.1](images/lin-planes-2_1.pdf)
+![Linear Plane 2.2](images/lin-planes-2_2.pdf)
+![Linear Plane 2.3](images/lin-planes-2_3.pdf)
+![Linear Plane 2.4](images/lin-planes-2_4.pdf)
 
 _Compared to the part one, the solution set looks narrower._
 
@@ -238,10 +238,10 @@ $$Calories = fat * 9 + carbs * 4 + protein * 4 = 390.$$
 The vectors are:
 $$(24, 12, 17), (4, 15, 6), (0, 30, 2)$$
 
-![Linear Combination 3.1](images/lin-comb-3_1.png)
-![Linear Combination 3.2](images/lin-comb-3_2.png)
-![Linear Combination 3.3](images/lin-comb-3_3.png)
-![Linear Combination 3.4](images/lin-comb-3_4.png)
+![Linear Combination 3.1](images/lin-comb-3_1.pdf)
+![Linear Combination 3.2](images/lin-comb-3_2.pdf)
+![Linear Combination 3.3](images/lin-comb-3_3.pdf)
+![Linear Combination 3.4](images/lin-comb-3_4.pdf)
 
 The vectors are linearly independent (**[link](https://www.emathhelp.net/calculators/linear-algebra/linear-independence-calculator/?i=%5B%5B24%2C4%2C0%5D%2C%5B12%2C15%2C30%5D%2C%5B17%2C6%2C2%5D%5D)**), although the b vector looks like it almost lies between a and c.
 
@@ -251,10 +251,10 @@ The system of three dishes, their nutritional values, and goal can be represente
 
 $$(24, 12, 17) * a + (4, 15, 6) * b + (0, 30, 2) * c = (10, 60, 15)$$
 
-![Linear Plane 3.1](images/lin-planes-3_1.png)
-![Linear Plane 3.2](images/lin-planes-3_2.png)
-![Linear Plane 3.3](images/lin-planes-3_3.png)
-![Linear Plane 3.4](images/lin-planes-3_4.png)
+![Linear Plane 3.1](images/lin-planes-3_1.pdf)
+![Linear Plane 3.2](images/lin-planes-3_2.pdf)
+![Linear Plane 3.3](images/lin-planes-3_3.pdf)
+![Linear Plane 3.4](images/lin-planes-3_4.pdf)
 
 **Matrix representation (done by WolframAlpha):**
 
@@ -331,10 +331,10 @@ $$Calories = fat * 9 + carbs * 4 + protein * 4 = 390.$$
 The vectors are:
 $$(5, 45, 8), (4, 15, 6), (0, 30, 2)$$
 
-![Linear Combination 4.1](images/lin-comb-4_1.png)
-![Linear Combination 4.2](images/lin-comb-4_2.png)
-![Linear Combination 4.3](images/lin-comb-4_3.png)
-![Linear Combination 4.4](images/lin-comb-4_4.png)
+![Linear Combination 4.1](images/lin-comb-4_1.pdf)
+![Linear Combination 4.2](images/lin-comb-4_2.pdf)
+![Linear Combination 4.3](images/lin-comb-4_3.pdf)
+![Linear Combination 4.4](images/lin-comb-4_4.pdf)
 
 We see that these vectors are linearly independent using proofs from previous parts.
 
@@ -344,10 +344,10 @@ The system of three dishes, their nutritional values, and goal can be represente
 
 $$(5, 45, 8) * a + (4, 15, 6) * b + (0, 30, 2) * c = (10, 60, 15)$$
 
-![Linear Plane 4.1](images/lin-planes-4_1.png)
-![Linear Plane 4.2](images/lin-planes-4_2.png)
-![Linear Plane 4.3](images/lin-planes-4_3.png)
-![Linear Plane 4.4](images/lin-planes-4_4.png)
+![Linear Plane 4.1](images/lin-planes-4_1.pdf)
+![Linear Plane 4.2](images/lin-planes-4_2.pdf)
+![Linear Plane 4.3](images/lin-planes-4_3.pdf)
+![Linear Plane 4.4](images/lin-planes-4_4.pdf)
 
 _As you can see, there are no solutions in the positive octant._
 
